@@ -26,3 +26,15 @@ I modelled a tree, street lamp, path and started on a road>
 ![alt text](image-11.png)
 
 
+## Hour 3:
+
+I modeled a house, gave it a fence, made a road and started a bin
+
+### Progress:
+
+![alt text](image-12.png)
+![alt text](image-13.png)
+![alt text](image-14.png)
+![alt text](image-15.png)
+![alt text](image-16.png)
+![alt text](image-17.png)
