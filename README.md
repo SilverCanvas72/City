@@ -51,3 +51,16 @@ Finished the bin, Made a park bench, a bus stop sign and a traffic light.
 ![alt text](image-21.png)
 ![alt text](image-22.png)
 ![alt text](image-23.png)
+
+## Hour 5:
+
+Made a new tree, a building and placed some paths.
+
+### Progress:
+
+![alt text](image-24.png)
+![alt text](image-25.png)
+![alt text](image-26.png)
+![alt text](image-27.png)
+![alt text](image-28.png)
+
