@@ -77,3 +77,21 @@ Made a library and a park outside it.
 ![alt text](image-32.png)
 ![alt text](image-33.png)
 ![alt text](image-34.png)
+
+## Hour 7:
+
+Finished the chess boards, made a train track and train, extended the roads and started added lighting.
+
+### Progress:
+
+![alt text](image-35.png)
+![alt text](image-36.png)
+![alt text](image-37.png)
+![alt text](image-38.png)
+![alt text](image-39.png)
+![alt text](image-40.png)
+![alt text](image-41.png)
+![alt text](image-42.png)
+![alt text](image-43.png)
+![alt text](image-44.png)
+
