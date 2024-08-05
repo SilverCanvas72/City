@@ -95,3 +95,21 @@ Finished the chess boards, made a train track and train, extended the roads and 
 ![alt text](image-43.png)
 ![alt text](image-44.png)
 
+## Hour 8:
+
+Added lights to buildings and started adding basic materials.
+
+### Progress:
+
+![alt text](image-45.png)
+![alt text](image-46.png)
+![alt text](image-47.png)
+![alt text](image-48.png)
+![alt text](image-50.png)
+![alt text](image-51.png)
+![alt text](image-52.png)
+![alt text](image-53.png)
+![alt text](image-54.png)
+![alt text](image-55.png)
+
+
