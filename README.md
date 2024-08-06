@@ -112,4 +112,22 @@ Added lights to buildings and started adding basic materials.
 ![alt text](image-54.png)
 ![alt text](image-55.png)
 
+## Hour 9:
+
+Added basic materials to alot of the objects and buildings
+
+### Progress:
+
+![alt text](image-56.png)
+![alt text](image-62.png)
+![alt text](image-58.png)
+![alt text](image-59.png)
+![alt text](image-60.png)
+![alt text](image-61.png)
+
+
+
+
+
+
 
