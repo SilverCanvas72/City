@@ -127,6 +127,23 @@ Added basic materials to alot of the objects and buildings
 
 
 
+## Hour 10:
+
+Made the traffic lights, bin, trees and the two last buildings. It is now finished.
+
+### Progress:
+
+![alt text](image-63.png)
+![alt text](image-64.png)
+![alt text](image-65.png)
+![alt text](image-66.png)
+![alt text](image-67.png)
+![alt text](image-68.png)
+![alt text](image-69.png)
+![alt text](image-70.png)
+![alt text](image-71.png)
+![alt text](image-72.png)
+
 
 
 
