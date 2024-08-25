@@ -1,5 +1,10 @@
-# MelbourneModel
+# City Model
+## Sketchfab Link:
+https://skfb.ly/p7ZQV
 
+![image](https://github.com/user-attachments/assets/9ec89c67-0522-4000-b2b3-79139225fd8b)
+<details>
+  <summary>See Progress Here:</summary>
 ## Hour 1:
 
 I modeled the first building which I found more dificult than expected.
@@ -143,7 +148,7 @@ Made the traffic lights, bin, trees and the two last buildings. It is now finish
 ![alt text](image-70.png)
 ![alt text](image-71.png)
 ![alt text](image-72.png)
-
+</details>
 
 
 
