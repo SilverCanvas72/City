@@ -1,4 +1,5 @@
 # City Model
+I wanted to focus on modelling buildings and some enviromental factors. This was my first time using cycles to render so I was really happy to see everything come to life.
 ## Sketchfab Link:
 https://skfb.ly/p7ZQV
 
